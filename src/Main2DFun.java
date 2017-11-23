@@ -113,12 +113,10 @@ public class Main2DFun {
         
         // Change the code here!
         int leftElement = 0; 
-        leftElement = arr2D[r][c-1];
         System.out.println("leftElement="+leftElement);
        
         // Change the code here!
         int belowElement = 0;
-        belowElement = arr2D[r+1][c];
         System.out.println("belowElement="+belowElement);
         
         keys[12]=leftElement+99 ;
